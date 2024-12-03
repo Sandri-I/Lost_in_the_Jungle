@@ -8,14 +8,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GroundCheck
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
-  - 
+  - Sky
+  - Bg_Far
+  - Bg_Near
+  - Base
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Bg_Near
+    uniqueID: 4083339971
     locked: 0
